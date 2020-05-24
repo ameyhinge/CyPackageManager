@@ -1,0 +1,9 @@
+"name": "app-name"
+"version": "0.0.0.0"
+"dependencies":
+{
+	"core"
+	"cycle": ver~9.0 
+	"semantics": url~"https://kgh.com/utils/semantics" 
+	"klem": url~"https://kgh.com/utils/klem" branch~"beta"
+}
